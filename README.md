@@ -6,7 +6,7 @@ Boilerplate webpack with sass and babel.
 
 Instructions:
 
-1. Clone project `git clone [https://github.com/AndresParraGO/webpack-boilerplate-basic.git](https://github.com/AndresParraGO/webpack-boilerplate-basic.git)`.
+1. Clone project `git clone https://github.com/AndresParraGO/webpack-boilerplate-basic.git`.
 
 2. Install all dependencies `using yarn or npm install`.
 
