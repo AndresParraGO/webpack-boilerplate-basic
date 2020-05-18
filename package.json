@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate-webpack-basic",
+  "version": "0.1.0",
+  "description": "Boilerplate webpack with sass and babel.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack --mode production"
+  },
+  "keywords": ["webpack", "sass", "babel", "javascript", "html"],
+  "author": "Andrés Parra Garzón",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "node-sass": "^4.14.1",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
